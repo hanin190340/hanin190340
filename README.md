@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hanin190340/hanin190340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=400&lines=Hi+there+👋+I'm+Hanin)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## :bar_chart: GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=hanin190340&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
+
+---
+
+## :bulb: Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+---
+
+</div>
